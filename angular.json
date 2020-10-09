@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "voluntariis-admin"
+    }
+  },
+  "defaultProject": "voluntariis-admin",
+  "cli": {
+    "analytics": false
+  }
 }
